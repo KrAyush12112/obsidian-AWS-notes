@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "e33cbe51894db703",
+    "type": "split",
+    "children": [
+      {
+        "id": "3628d5f942750229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab57cfc93410dbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/Network Part/5. NAT GAteway (IMP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. NAT GAteway (IMP)"
+            }
+          },
+          {
+            "id": "ac11e14e8f0b3aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/Network Part/9. Egress-Only Internet Gateway.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Egress-Only Internet Gateway"
+            }
+          },
+          {
+            "id": "cdc7d842e8cacf02",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMAGES/Pasted image 20250804012358.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250804012358"
+            }
+          },
+          {
+            "id": "da02dc267781db9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/Network Part/6. Stateful vs Stateless in AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Stateful vs Stateless in AWS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928d0f5e15a1e49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b068dc43382ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2bc178edbba14e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f370155a22b387c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5248d5b578c98af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2477d60d3a0615b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process when EC2 launches-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process when EC2 launches-"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "a7dab4ca092f26cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4065150b411c682d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8805f07f590d4ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VirtualMachine/2.Kernel-based Virtual Machine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.Kernel-based Virtual Machine"
+            }
+          },
+          {
+            "id": "20dece698daf2ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "682a4ec4b6954555",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2e191d7478b129d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac11e14e8f0b3aba",
+  "lastOpenFiles": [
+    "EC2/Network Part/10. VPC Peering.md",
+    "EC2/Network Part/11 .Transit Gateway (TGW).md",
+    "IMAGES/Pasted image 20250804012358.png",
+    "Pasted image 20250804012419.png",
+    "IMAGES/Pasted image 20250804012013.png",
+    "EC2/Network Part/9. Egress-Only Internet Gateway.md",
+    "IMAGES/Pasted image 20250803212723.png",
+    "EC2/Network Part/7. Packet Flow In VPC.md",
+    "EC2/Network Part/6. Stateful vs Stateless in AWS.md",
+    "IMAGES",
+    "EC2/Network Part/4. Route Table (RT).md",
+    "IMAGES/Pasted image 20250803043041.png",
+    "EC2/Network Part/5. NAT GAteway (IMP).md",
+    "EC2/Network Part/2. Internet Gateway (IGW).md",
+    "EC2/Network Part/3. Subnet.md",
+    "EC2/Network Part/1. VPC (Virtual private cloud).md",
+    "thhfthth.md",
+    "().md",
+    "[[Stateful.md",
+    "Stahsddsuhsdfu.md",
+    "Untitled",
+    "EC2/Network Part",
+    "EC2/Untitled.canvas",
+    "VirtualMachine/1.Process when EC2 launches-.md",
+    "EC2",
+    "VirtualMachine/2.Kernel-based Virtual Machine.md",
+    "2025-08-01.md",
+    "Linux",
+    "[What.md",
+    "Untitled.canvas",
+    "Roadmap/ChatGPT Guide.md",
+    "Roadmap/~$u said 1.docx",
+    "Roadmap/ChatGpt.pdf",
+    "Roadmap/You said 2.docx",
+    "~$u said.docx",
+    "You said.docx",
+    "VirtualMachine/What is Kernel Virtual Machine (KVM).md",
+    "VirtualMachine/What is a virtual machine (VM).md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
