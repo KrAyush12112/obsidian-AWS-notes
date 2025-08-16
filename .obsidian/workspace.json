@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3628d5f942750229",
+        "id": "fbe2405882fc7dff",
         "type": "tabs",
         "children": [
           {
-            "id": "ab57cfc93410dbf7",
+            "id": "63c802c7b882377d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2/Network Part/5. NAT GAteway (IMP).md",
+                "file": "EC2/1. Network Part/13. Network Load Balancer (NLB).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. NAT GAteway (IMP)"
-            }
-          },
-          {
-            "id": "ac11e14e8f0b3aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EC2/Network Part/9. Egress-Only Internet Gateway.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Egress-Only Internet Gateway"
-            }
-          },
-          {
-            "id": "cdc7d842e8cacf02",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMAGES/Pasted image 20250804012358.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250804012358"
-            }
-          },
-          {
-            "id": "da02dc267781db9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EC2/Network Part/6. Stateful vs Stateless in AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Stateful vs Stateless in AWS"
+              "title": "13. Network Load Balancer (NLB)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,47 +182,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac11e14e8f0b3aba",
+  "active": "63c802c7b882377d",
   "lastOpenFiles": [
-    "EC2/Network Part/10. VPC Peering.md",
-    "EC2/Network Part/11 .Transit Gateway (TGW).md",
-    "IMAGES/Pasted image 20250804012358.png",
-    "Pasted image 20250804012419.png",
-    "IMAGES/Pasted image 20250804012013.png",
-    "EC2/Network Part/9. Egress-Only Internet Gateway.md",
-    "IMAGES/Pasted image 20250803212723.png",
-    "EC2/Network Part/7. Packet Flow In VPC.md",
-    "EC2/Network Part/6. Stateful vs Stateless in AWS.md",
-    "IMAGES",
-    "EC2/Network Part/4. Route Table (RT).md",
-    "IMAGES/Pasted image 20250803043041.png",
-    "EC2/Network Part/5. NAT GAteway (IMP).md",
-    "EC2/Network Part/2. Internet Gateway (IGW).md",
-    "EC2/Network Part/3. Subnet.md",
-    "EC2/Network Part/1. VPC (Virtual private cloud).md",
-    "thhfthth.md",
-    "().md",
-    "[[Stateful.md",
-    "Stahsddsuhsdfu.md",
-    "Untitled",
-    "EC2/Network Part",
-    "EC2/Untitled.canvas",
-    "VirtualMachine/1.Process when EC2 launches-.md",
-    "EC2",
-    "VirtualMachine/2.Kernel-based Virtual Machine.md",
-    "2025-08-01.md",
-    "Linux",
-    "[What.md",
+    "EC2/1. Network Part/12.  AWS PrivateLink And Lattice.md",
+    "EC2/1. Network Part/13. Network Load Balancer (NLB).md",
+    "EC2/2. Storage(EBS)/How Amazon EBS encryption works.md",
+    "EC2/3. Auto Scaling Group/1.  AWS Launch Template.md",
+    "EC2/Load Balancer/Load balancer.md",
+    "EC2/Load Balancer",
+    "EC2/1. Network Part/Network Interface.md",
+    "EC2/Opt/Placement Group in EC2.md",
+    "EC2/Opt/2. Spot Fleet.md",
+    "EC2/Opt/3. Capacity Reservation in AWS.md",
+    "EC2/Opt",
+    "EC2/AMI/3. Comparison Table.md",
+    "EC2/AMI/1. AMI (Amazon Machine Image).md",
+    "EC2/AMI/2. Snapshot.md",
+    "EC2/1. Network Part/7. Packet Flow In VPC.md",
     "Untitled.canvas",
-    "Roadmap/ChatGPT Guide.md",
-    "Roadmap/~$u said 1.docx",
-    "Roadmap/ChatGpt.pdf",
-    "Roadmap/You said 2.docx",
-    "~$u said.docx",
-    "You said.docx",
-    "VirtualMachine/What is Kernel Virtual Machine (KVM).md",
-    "VirtualMachine/What is a virtual machine (VM).md",
-    "create a link.md",
-    "Welcome.md"
+    "EC2/1. Network Part/2. Internet Gateway (IGW).md",
+    "EC2/2. Storage(EBS)/1. Eastic Block Storage (EBS).md",
+    "EC2/AMI",
+    "IMAGES/LaunchTemplete.png",
+    "Confusion.md",
+    "IMAGES/OIP.webp",
+    "EC2/3. Auto Scaling Group",
+    "EC2/2. Storage(EBS)/2. Object Storage.md",
+    "Untitled 2",
+    "Untitled 1",
+    "EC2/1. Network Part/3.1. Security Group (SG).md",
+    "EC2/2. Storage(EBS)",
+    "EC2/1. Network Part/1. VPC (Virtual private cloud).md",
+    "EC2/1. Network Part/3. Subnet.md",
+    "EC2/1. Network Part/4. Route Table (RT).md",
+    "EC2/1. Network Part/10. VPC Peering.md",
+    "EC2/1. Network Part/11 .Transit Gateway (TGW).md",
+    "EC2/1. Network Part/6. EOIG/9. Egress-Only Internet Gateway.md",
+    "EC2/1. Network Part/6. Stateful vs Stateless in AWS.md",
+    "EC2/1. Network Part/6. EOIG",
+    "Computer Network",
+    "IMAGES/Pasted image 20250804012358.png",
+    "IMAGES/Pasted image 20250804234218.png",
+    "IMAGES/Pasted image 20250804012419.png",
+    "IMAGES/Pasted image 20250804012013.png",
+    "IMAGES/Pasted image 20250803212723.png",
+    "IMAGES",
+    "IMAGES/Pasted image 20250803043041.png",
+    "EC2/Untitled.canvas"
   ]
 }
