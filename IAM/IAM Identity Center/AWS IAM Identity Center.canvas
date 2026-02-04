@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fddf1dea50f3d343","x":-170,"y":-320,"width":260,"height":70,"type":"text","text":"IAM Identity Center"},
+		{"id":"569149c9f9bdac58","x":-420,"y":-140,"width":250,"height":60,"type":"text","text":"AWS ACCOUNT 1"},
+		{"id":"34c0670aebe53edc","x":-120,"y":-140,"width":250,"height":60,"type":"text","text":"AWS ACCOUNT 2"},
+		{"id":"4cba8ce4a0552b57","x":180,"y":-140,"width":250,"height":60,"type":"text","text":"AWS ACCOUNT 3"},
+		{"id":"91b4e775a9ae73ca","x":-420,"y":40,"width":200,"height":50,"type":"text","text":"AYUSH"},
+		{"id":"c1e19fc0f13945d8","x":-130,"y":40,"width":220,"height":50,"type":"text","text":"AYUSH"},
+		{"id":"ca9c8f2324ac0970","x":180,"y":35,"width":250,"height":50,"type":"text","text":"AYUSH"},
+		{"id":"5b430cc981be990c","x":-15,"y":-310,"width":105,"height":50,"type":"text","text":"AYUSH"},
+		{"id":"354b7e93b2ac90b8","x":-470,"y":-460,"width":250,"height":60,"type":"text","text":"Active Directory"}
+	],
+	"edges":[
+		{"id":"0a0bd5f1d929cab3","fromNode":"569149c9f9bdac58","fromSide":"top","toNode":"fddf1dea50f3d343","toSide":"left"},
+		{"id":"8bdfd539fbe5870b","fromNode":"34c0670aebe53edc","fromSide":"top","toNode":"fddf1dea50f3d343","toSide":"bottom"},
+		{"id":"1bcfbb22491a486f","fromNode":"4cba8ce4a0552b57","fromSide":"top","toNode":"fddf1dea50f3d343","toSide":"right"},
+		{"id":"b64ff540171f5dc0","fromNode":"91b4e775a9ae73ca","fromSide":"top","toNode":"569149c9f9bdac58","toSide":"bottom","label":"x"},
+		{"id":"e9fd22e5cdade577","fromNode":"c1e19fc0f13945d8","fromSide":"top","toNode":"34c0670aebe53edc","toSide":"bottom","label":"x"},
+		{"id":"90bdac2496bc71c5","fromNode":"ca9c8f2324ac0970","fromSide":"top","toNode":"4cba8ce4a0552b57","toSide":"bottom","label":"x"},
+		{"id":"612cdca2bf914e33","fromNode":"354b7e93b2ac90b8","fromSide":"right","toNode":"fddf1dea50f3d343","toSide":"top","label":"External IDPs"}
+	]
+}

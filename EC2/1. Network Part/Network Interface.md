@@ -31,9 +31,7 @@ An ENI holds these things:
 # 🔹 Example (Real-World)
 - You run a web app EC2. It has ENI with:
     - **Private IP = 10.0.0.5** (for internal VPC traffic).
-        
     - **Elastic IP = 54.x.x.x** (so users can reach it from internet).
-        
     - Security group = Allows HTTP + SSH.
     
 If your app crashes and you want zero downtime:

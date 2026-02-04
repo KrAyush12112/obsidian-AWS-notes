@@ -1,4 +1,17 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"f790ac9baaacbc4a","x":-560,"y":-600,"width":285,"height":65,"type":"text","text":"USER_SIGNUP"},
+		{"id":"92194114049a9dd5","x":-85,"y":-598,"width":265,"height":238,"type":"text","text":"1. request to postSignUp\n- Check validation\n- fetch data form body\n- send error to ui\n2. Hash password\n- Save to user db\n"},
+		{"id":"ab73f870f00f5014","x":337,"y":-617,"width":250,"height":60,"type":"text","text":"1. Generate OTP"},
+		{"id":"a8c90213fde86834","x":-77,"y":-317,"width":257,"height":57,"type":"text","text":"3. Call otpGeneratorFunction.\n"},
+		{"id":"d60d8da22088144a","x":-74,"y":-222,"width":250,"height":60,"type":"text","text":"4. Call function storeOtp to store in OTP DB."},
+		{"id":"b7a62fcbbd0ce07b","x":377,"y":-520,"width":250,"height":160,"type":"text","text":"1. First Check old otps\n2. if avaolable - update with new one\n3. add expire time"}
+	],
+	"edges":[
+		{"id":"f7eee3603fa13edb","fromNode":"f790ac9baaacbc4a","fromSide":"right","toNode":"92194114049a9dd5","toSide":"left"},
+		{"id":"19ba41ea85138b61","fromNode":"a8c90213fde86834","fromSide":"right","toNode":"ab73f870f00f5014","toSide":"left"},
+		{"id":"b7b4d3d404c54f56","fromNode":"92194114049a9dd5","fromSide":"bottom","toNode":"a8c90213fde86834","toSide":"top"},
+		{"id":"64959068f2ed6505","fromNode":"a8c90213fde86834","fromSide":"bottom","toNode":"d60d8da22088144a","toSide":"top"},
+		{"id":"b495fb04d8150faa","fromNode":"d60d8da22088144a","fromSide":"right","toNode":"b7a62fcbbd0ce07b","toSide":"left"}
+	]
 }

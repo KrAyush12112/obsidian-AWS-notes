@@ -4,24 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "fbe2405882fc7dff",
+        "id": "65b0ef1a7093aa81",
         "type": "tabs",
         "children": [
           {
-            "id": "63c802c7b882377d",
+            "id": "b59c6b793b886b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2/1. Network Part/13. Network Load Balancer (NLB).md",
+                "file": "Docker/1. Docker - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Network Load Balancer (NLB)"
+              "title": "1. Docker - Introduction"
+            }
+          },
+          {
+            "id": "b9397765105c19a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/2. ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. ARCHITECTURE"
+            }
+          },
+          {
+            "id": "0deb52302230be49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/3. Installation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Installation"
+            }
+          },
+          {
+            "id": "11985015fa77ed3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/4. Introduction to Docker CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Introduction to Docker CLI"
+            }
+          },
+          {
+            "id": "354761d1d87ff526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/5. Docker images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Docker images"
+            }
+          },
+          {
+            "id": "eeb7bdf9fb8ca96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/6.  Docker container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.  Docker container"
+            }
+          },
+          {
+            "id": "31bc1a3c13ea3d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/6.3 YAML vs Dockerfile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.3 YAML vs Dockerfile"
+            }
+          },
+          {
+            "id": "075fd589d36a489c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/6.4 Docker file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.4 Docker file"
+            }
+          },
+          {
+            "id": "401272868f1a3a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/7. Docker Networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Docker Networking"
+            }
+          },
+          {
+            "id": "ba22b20bbfd1a259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/7.1 User-Defined Bridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 User-Defined Bridge"
+            }
+          },
+          {
+            "id": "315cc65e2d5275fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/7.2 Publish port.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.2 Publish port"
+            }
+          },
+          {
+            "id": "a2b11b12eb660c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/7.1 User-Defined Bridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 User-Defined Bridge"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -41,7 +196,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VirtualMachine/2.Kernel-based Virtual Machine.md",
+                "file": "NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.Kernel-based Virtual Machine"
+              "title": "Backlinks for NFS"
             }
           },
           {
@@ -127,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create a link"
+              "title": "Outgoing links from NFS"
             }
           },
           {
@@ -156,16 +311,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "AWS Organizations service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of AWS Organizations service"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,60 +330,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "63c802c7b882377d",
+  "active": "a2b11b12eb660c56",
   "lastOpenFiles": [
-    "EC2/1. Network Part/12.  AWS PrivateLink And Lattice.md",
-    "EC2/1. Network Part/13. Network Load Balancer (NLB).md",
-    "EC2/2. Storage(EBS)/How Amazon EBS encryption works.md",
-    "EC2/3. Auto Scaling Group/1.  AWS Launch Template.md",
-    "EC2/Load Balancer/Load balancer.md",
-    "EC2/Load Balancer",
-    "EC2/1. Network Part/Network Interface.md",
-    "EC2/Opt/Placement Group in EC2.md",
-    "EC2/Opt/2. Spot Fleet.md",
-    "EC2/Opt/3. Capacity Reservation in AWS.md",
-    "EC2/Opt",
-    "EC2/AMI/3. Comparison Table.md",
-    "EC2/AMI/1. AMI (Amazon Machine Image).md",
-    "EC2/AMI/2. Snapshot.md",
-    "EC2/1. Network Part/7. Packet Flow In VPC.md",
-    "Untitled.canvas",
-    "EC2/1. Network Part/2. Internet Gateway (IGW).md",
-    "EC2/2. Storage(EBS)/1. Eastic Block Storage (EBS).md",
-    "EC2/AMI",
-    "IMAGES/LaunchTemplete.png",
-    "Confusion.md",
-    "IMAGES/OIP.webp",
-    "EC2/3. Auto Scaling Group",
-    "EC2/2. Storage(EBS)/2. Object Storage.md",
-    "Untitled 2",
+    "Docker/7.2 Publish port.md",
+    "Docker/7.3 Host network.md",
+    "Docker/6.5 Operation on container and images.md",
+    "Docker/7.1 User-Defined Bridge.md",
+    "Docker/6.4 Docker file.md",
+    "Docker/7. Docker Networking.md",
+    "Untitled.base",
+    "Docker/6.1 The Imperative Way- Controlling Docker Manually.md",
+    "Docker/6.2 Declaritive method od container.md",
+    "Docker/6.3 YAML vs Dockerfile.md",
+    "IMAGES/Network list docker.png",
+    "IMAGES/Dockernetworkinh syllabus.png",
+    "IMAGES/Dockerfile.png",
+    "Docker/6.  Docker container.md",
+    "Docker/5. Docker images.md",
+    "Docker/4. Introduction to Docker CLI.md",
+    "Docker/2. ARCHITECTURE.md",
+    "Docker/3. Installation.md",
     "Untitled 1",
-    "EC2/1. Network Part/3.1. Security Group (SG).md",
-    "EC2/2. Storage(EBS)",
-    "EC2/1. Network Part/1. VPC (Virtual private cloud).md",
-    "EC2/1. Network Part/3. Subnet.md",
-    "EC2/1. Network Part/4. Route Table (RT).md",
-    "EC2/1. Network Part/10. VPC Peering.md",
-    "EC2/1. Network Part/11 .Transit Gateway (TGW).md",
-    "EC2/1. Network Part/6. EOIG/9. Egress-Only Internet Gateway.md",
-    "EC2/1. Network Part/6. Stateful vs Stateless in AWS.md",
-    "EC2/1. Network Part/6. EOIG",
-    "Computer Network",
-    "IMAGES/Pasted image 20250804012358.png",
-    "IMAGES/Pasted image 20250804234218.png",
+    "Linux/1. Package Manager.md",
+    "Untitled",
+    "Docker/1. Docker - Introduction.md",
+    "IMAGES/docker-architecture.webp",
+    "Docker",
+    "VirtualMachine/2.Kernel-based Virtual Machine.md",
+    "[What.md",
+    "VirtualMachine/1.Process when EC2 launches-.md",
+    "AWS Organizations service.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "Untitled 1.base",
+    "Untitled.md",
+    "Untitled.canvas",
+    "IAM/IAM Identity Center/AWS IAM Identity Center.canvas",
+    "EC2/2. Storage(EBS)/Object Storage",
+    "IAM/IAM Identity Center",
+    "IAM/AWS Organization",
+    "IMAGES/AWS cross acc IAM.png",
+    "IMAGES/IAM USE CASE.png",
+    "node",
+    "IMAGES/ALB.png",
+    "IMAGES/IAM Identies.png",
     "IMAGES/Pasted image 20250804012419.png",
-    "IMAGES/Pasted image 20250804012013.png",
-    "IMAGES/Pasted image 20250803212723.png",
-    "IMAGES",
-    "IMAGES/Pasted image 20250803043041.png",
+    "IMAGES/Pasted image 20250804234218.png",
+    "IAM",
+    "Untitled 1.canvas",
     "EC2/Untitled.canvas"
   ]
 }
